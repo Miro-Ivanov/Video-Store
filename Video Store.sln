@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Video Store", "Video Store\Video Store.csproj", "{E9825D6D-9FCC-4A33-8B24-BBB98DA97D1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WithNoClasses", "WithNoClasses\WithNoClasses.csproj", "{5955D74F-E6FF-4276-8155-1B1A0D71C0BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. WithNoClasses", "WithNoClasses\1. WithNoClasses.csproj", "{5955D74F-E6FF-4276-8155-1B1A0D71C0BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
