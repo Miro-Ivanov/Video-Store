@@ -15,7 +15,8 @@ namespace _1._WithNoClasses
                     " he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
                     ReleasedOn = "Dec 19 1997",
                     Genre = "Action",
-                    Price = 9.99
+                    SalePrice = 9.99,
+                    RentPrice = 2.99
                 },
                 new
                 {
@@ -24,7 +25,8 @@ namespace _1._WithNoClasses
                     " ill-fated R.M.S. Titanic.",
                     ReleasedOn = "March 31 1999",
                     Genre = "Drama",
-                    Price = 8.99
+                    SalePrice = 8.99,
+                    RentPrice = 3.99
                 }
             };
         }
