@@ -13,7 +13,7 @@ namespace _1._WithNoClasses
                     Title = "The Matrix",
                     Description = "When a beautiful stranger leads computer hacker Neo to a forbidding underworld," +
                     " he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
-                    ReleasedOn = "Dec 19 1997",
+                    ReleasedOn = "March 31 1999",
                     Genre = "Action",
                     SalePrice = 9.99,
                     RentPrice = 2.99
@@ -23,7 +23,7 @@ namespace _1._WithNoClasses
                     Title = "Titanic",
                     Description = "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious," +
                     " ill-fated R.M.S. Titanic.",
-                    ReleasedOn = "March 31 1999",
+                    ReleasedOn = "Dec 19 1997",
                     Genre = "Drama",
                     SalePrice = 8.99,
                     RentPrice = 3.99
