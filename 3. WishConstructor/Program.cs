@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _3._WishConstructor
+namespace _3._WithConstructor
 {
     class Program
     {
