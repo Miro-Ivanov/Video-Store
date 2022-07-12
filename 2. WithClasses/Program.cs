@@ -11,7 +11,7 @@ namespace _2._WithClasses
             TheMatrix.Description = "When a beautiful stranger leads computer hacker Neo to a forbidding underworld," +
                     " he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.";
             TheMatrix.genre = Genre.action;
-            TheMatrix.ReleasedOn = new DateTime(1999, 31, 3);
+            TheMatrix.ReleasedOn = new DateTime(1999, 3, 31);
             TheMatrix.RentPrice = 2.99m;
             TheMatrix.SalePrice = 9.99m;
 
@@ -21,8 +21,8 @@ namespace _2._WithClasses
                     " ill-fated R.M.S. Titanic.";
             Titanic.genre = Genre.drama;
             Titanic.ReleasedOn = new DateTime(1997, 12, 19);
-            Titanic.RentPrice = 8.99m;
-            Titanic.SalePrice = 3.99m;
+            Titanic.RentPrice = 3.99m;
+            Titanic.SalePrice = 8.99m;
         }
     }
     class Movie
