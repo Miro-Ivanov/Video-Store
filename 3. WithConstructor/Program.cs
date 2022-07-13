@@ -10,7 +10,7 @@ namespace _3._WithConstructor
                     " he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.", new DateTime(1999, 3, 31), Genre.action, 2.99m, 9.99m);
 
             Movie Titanic = new Movie("Titanic", "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious," +
-                    " ill-fated R.M.S. Titanic.", new DateTime(1997, 12, 19), Genre.action, 3.99m, 8.99m);
+                    " ill-fated R.M.S. Titanic.", new DateTime(1997, 12, 19), Genre.drama, 3.99m, 8.99m);
         }
     }
     class Movie
