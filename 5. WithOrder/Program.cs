@@ -18,7 +18,7 @@ namespace _5._WithOrder
             order1.movies.Add(Matrix);
             Console.WriteLine(order1.OrderInfo());
 
-            
+            Console.WriteLine(Titanic.DisplayInfo());
         }
     }
 }
