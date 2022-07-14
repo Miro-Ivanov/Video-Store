@@ -1,0 +1,4 @@
+﻿When we use propertie it's easy to set rules when initializing the fields like validating string length and so on.
+It's much better to access the fields through the properties from outside classes.
+The problem here however is that the fields are public , so they are accesible from everywhere and the rules set in the properties
+can be bypassed.
