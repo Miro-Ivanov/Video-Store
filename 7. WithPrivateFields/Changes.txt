@@ -1,0 +1,1 @@
+﻿With private fields we can limit the access to outside classes, so they can access them only thru the property
